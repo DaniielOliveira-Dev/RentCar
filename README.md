@@ -118,5 +118,25 @@ O Retrofit 2 está configurado com um endpoint REST público usado apenas como *
 
 O projeto utiliza `minSdk = 26`.
 
+## Capturas de tela
+
+### Dashboard - Locações Ativas
+![Dashboard](docs/screenshots/01-dashboard.png)
+
+### Frota de Veículos
+![Veículos](docs/screenshots/02-veiculos.png)
+
+### Cadastro de Veículo
+![Cadastro de Veículo](docs/screenshots/03-cadastro-veiculo.png)
+
+### Nova Locação
+![Nova Locação](docs/screenshots/04-nova-locacao.png)
+
+### Seleção de Cliente
+![Selecionar Cliente](docs/screenshots/05-selecionar-cliente.png)
+
+### Histórico de Locações
+![Histórico](docs/screenshots/06-historico.png)
+
 ## Observação sobre Room 3
 O projeto usa `AndroidSQLiteDriver`, exigido pelo Room 3 para criação do banco no Android.
